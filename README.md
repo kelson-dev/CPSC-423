@@ -3,9 +3,9 @@
 Prereqs: [CPSC 423](https://github.com/kelson-dev/CPSC-423)
 
  * [Overview](#Overview)
- * [The Books](#The Books)
+ * [The Books](#Books)
  * [License](#License)
- * [Code Style](#Code Style)
+ * [Code Style](#Style)
 
 ## Overview
 
@@ -18,7 +18,7 @@ The goals are as follows:
 
 The content here is a work in progress. Work will be done whenever I have time, as well as **every Tuesday at 6pm US Pacific Time** on my [twitch](https://www.twitch.tv/greendolph_).
 
-## The Books
+## Books
 
 Here are the books I have chosen to cover in this repository. Prices listed here may be out of date, so check the commit history of this document if they are wrong.
 
@@ -69,7 +69,7 @@ Here are the books I have chosen to cover in this repository. Prices listed here
 | Authors | Benjamin C Pierce |                                                                                                |
 | Copyright Date |              2002 | | 
 
-## Code Style
+## Style
 
 Each chapter of each book will have a pair of C# 10 projects targeting .NET 6.X.X. The first project will contain code that follows along with the chapter's content, and the second project will contain xUnit tests to "drive" the chapter code. Nothing IDE-specific will be included.
 
