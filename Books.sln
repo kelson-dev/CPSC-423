@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Compilers: Principles Techniques, and Tool [2nd Edition]", "Compilers: Principles Techniques, and Tool [2nd Edition]", "{61959D2C-74A9-4B62-8AD1-8C7763577E0B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Compilers | Principles, Techniques, and Tool | 2nd Edition", "Compilers | Principles, Techniques, and Tool | 2nd Edition", "{E941A209-320E-4EE3-A2BB-9E5EF6180078}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Compilers, 2nd Edition", "Compilers, 2nd Edition", "{ABB79EC2-06EE-4FB6-9E4E-3AB4B71EADCC}"
+	ProjectSection(SolutionItems) = preProject
+		Compilers, 2nd Edition\README.md = Compilers, 2nd Edition\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Crafting Interpreters", "Crafting Interpreters", "{175D99E9-50D1-4A88-80A5-FED6D6D83130}"
+	ProjectSection(SolutionItems) = preProject
+		Crafting Interpreters\README.md = Crafting Interpreters\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Language Implementation Patterns", "Language Implementation Patterns", "{4DEAB9E3-5262-442F-97F2-C8E9DA2CBC7A}"
+	ProjectSection(SolutionItems) = preProject
+		Language Implementation Patterns\README.md = Language Implementation Patterns\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Types and Programming Languages", "Types and Programming Languages", "{42BD9557-E357-43F0-A28B-5C978FEA0E5B}"
+	ProjectSection(SolutionItems) = preProject
+		Types and Programming Languages\README.md = Types and Programming Languages\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utilities", "Utilities", "{B86008D8-5E06-40D3-BD51-333B803C5D32}"
+	ProjectSection(SolutionItems) = preProject
+		Utilities\README.md = Utilities\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CA95C7A4-4AF1-44D7-9149-49464ACC18CF}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal
